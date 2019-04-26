@@ -10,3 +10,8 @@
 
 * [Quotes to Scrape](http://quotes.toscrape.com/)
 
+**How to use**
+1. Navigate to the directory in Command Prompt
+2. Type in *scrapy crawl quotes_spider*
+
+
